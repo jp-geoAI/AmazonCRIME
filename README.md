@@ -9,7 +9,7 @@ The active project and current download links are available at:
 
 ## Article and Citation
 
-Pinto-Hidalgo, J.J., & Silva-Centeno, J.A. (2022). *AmazonCRIME: a Geospatial Artificial Intelligence dataset and benchmark for the classification of potential areas linked to Transnational Environmental Crimes in the Amazon Rainforest*. **Revista de Teledetección**, 59, 1–21. https://doi.org/10.4995/raet.2021.15710
+Pinto-Hidalgo, J.J., & Silva-Centeno, J.A. (2022). *AmazonCRIME: a Geospatial Artificial Intelligence dataset and benchmark for the classification of potential areas linked to Transnational Environmental Crimes in the Amazon Rainforest*. **Revista de Teledetección**, 59, 1–21. https://doi.org/10.4995/raet.2022.15710 
 
 Article page: https://polipapers.upv.es/index.php/raet/article/view/15710
 
